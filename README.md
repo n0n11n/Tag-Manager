@@ -1,5 +1,4 @@
 # Tag-Manager
-Simple courseproject to present filehandling in C#
+Simple courseproject to demonstrate C#
 
-
-![image](https://user-images.githubusercontent.com/58859798/73493798-1e54ad80-43bc-11ea-85d6-a381e6b267fc.png)
+![image](https://user-images.githubusercontent.com/58859798/73494488-47c20900-43bd-11ea-9b76-683b39ae401e.png)
